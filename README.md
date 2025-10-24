@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @vovanchuk
-- :video_game: I’m interested in game development
-- 🌱 I’m currently learning C++,Python, JS, Kotlin and Godot4
-- 📫 How to reach me:
-  -   !website - kukdev.fun(Temporarily not working),
-  -   Telegram - @vova_kuk,
-  -   @mail - volodymyr.hobie@gmail.com
-- ⚡ Fun fact: The surface of a cat's nose is as unique as human fingerprints.
+-👋 Hi, I’m @vovanchuk
+-🎮 I’m interested in game development
+-🌱 I’m currently learning Godot 4.5
+-🍺 Currently working on a game full of beer
+-📫 How to reach me:
+  🌐 Website — kukdev.fun (temporarily not working)
+  💬 Telegram — @vova_kuk
+  ✉️ Email — volodymyr.hobie@gmail.com
+  
+  ⚡ Fun fact: A cat’s nose pattern is as unique as a human fingerprint.
